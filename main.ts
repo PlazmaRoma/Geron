@@ -28,3 +28,4 @@
 import {MaxEmployeesSeason, MaxIncomeSeason, MinIncomeSeason, DisEmployeesSeason, data} from "./src/scripts/data";
 
 console.log(MaxEmployeesSeason());
+console.log("test")
