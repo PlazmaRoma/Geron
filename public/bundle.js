@@ -1,0 +1,1 @@
+Object.entries({tech:{employersCount:10,jobsCount:5},design:{employersCount:10,jobsCount:5}}).forEach((([o,e])=>{console.log(o)}));
