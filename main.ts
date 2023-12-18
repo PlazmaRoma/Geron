@@ -25,6 +25,13 @@
 // })
 
 // // Level 1
-import {MaxEmployeesSeason, MaxIncomeSeason, MinIncomeSeason, DisEmployeesSeason, data} from "./src/scripts/data";
+import {info} from "./src/scripts/data"
 
-console.log(MaxEmployeesSeason());
+function DetailCost(height, width, weight){
+    return height * width / weight * 150
+}
+
+Object.entries(info).forEach(([keys,values]) =>{
+})
+
+console.log()
